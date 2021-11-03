@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<infocenter_data version="1.0">
+  <iar_name>Empty project</iar_name>
+  <iar_description>Empty project that includes the MSP430 Driver Library</iar_description>
+
+  <iar_curdir>$CUR_DIR$</iar_curdir>
+  <iar_info_path>$TOOLKIT_DIR$/examples/driverlib/doc/MSP430F5xx_6xx/html/index.html</iar_info_path>
+</infocenter_data>
